@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :24/9/25
+# Reg. No:212222210006
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,83 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+
+---
+
+### 📝 Procedure:
+
+#### 1. Analyze the Given Image:
+
+* **Subject**: Identify the dog’s breed, size, and posture. For example: “Golden Retriever puppy sitting.”
+* **Colors**: Note fur color, eye color, and any other notable features.
+* **Textures**: Observe fur texture (fluffy, smooth, or curly).
+* **Lighting**: Identify the lighting conditions (bright sunlight, soft indoor lighting).
+* **Background**: Describe the surroundings (garden, park, indoor room).
+* **Composition**: Consider framing, angle, and focal points.
+* **Style**: Determine artistic style (realistic, cartoon, or digital painting).
+
+#### 2. Create the Basic Prompt:
+
+Start with a simple description:
+
+* “A golden retriever puppy sitting in a garden.”
+
+#### 3. Refine the Prompt with More Detail:
+
+Enhance the prompt by adding specifics:
+
+* “A playful golden retriever puppy sitting on green grass in a sunny garden, with colorful flowers around and looking directly at the camera with bright eyes.”
+
+#### 4. Identify Style and Artistic Influences:
+
+Include style or mood:
+
+* “Realistic digital painting with vivid colors, soft lighting, and cheerful, joyful atmosphere.”
+
+#### 5. Adjust and Fine-tune:
+
+Add textures, shadows, or distinctive features:
+
+* “A fluffy golden retriever puppy sitting on lush green grass in a sunny garden, surrounded by red and yellow flowers, tongue out, ears slightly floppy, with soft sunlight creating gentle shadows.”
+
+#### 6. Generate the Image:
+
+Use the crafted prompt in a text-to-image tool like **DALL·E**, **MidJourney**, or **Stable Diffusion**.
+
+#### 7. Compare the Generated Image with the Original:
+
+Check for similarities in posture, expression, background, colors, and lighting. Refine the prompt if needed to achieve a closer match.
+
+---
+
+### 🛠️ Tools/LLMs for Image Generation:
+
+* **DALL·E (by OpenAI)** – Create realistic or artistic images from text prompts.
+* **Stable Diffusion** – Open-source AI model for detailed image generation.
+* **MidJourney** – Popular for creative and visually appealing AI-generated images.
+
+---
+
+### 🧭 Instructions:
+
+1. **Examine the Original Image**: Focus on key features like fur color, background, and dog’s expression.
+2. **Write the Basic Prompt**: Capture the main subject (e.g., “A golden retriever puppy playing in the garden”).
+3. **Refine and Add Details**: Include specifics like lighting, textures, and mood.
+4. **Input Prompt into AI Tool**: Use DALL·E, Stable Diffusion, or MidJourney.
+5. **Iterate and Adjust**: Tweak the prompt until the generated image closely resembles the original.
+6. **Save and Document**: Record all prompts and generated images for your report.
+
+---
+
+### 📁 Deliverables:
+
+* **Original Image**: Reference image of the dog.
+* **Generated Image**: AI-generated image using refined prompts.
+* **Prompts Used**: All versions of prompts created during experimentation.
+* **Comparison Report**: Highlighting similarities, differences, and adjustments made.
+
+---
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/90bae12d-defe-4c29-9264-8f6c6ed87120" />
+
+
+
